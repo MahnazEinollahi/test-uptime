@@ -1,7 +1,7 @@
-url: https://wrong-domain.matchboxexchange-test.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-04T04:45:40.002Z
+url: https://google.com
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2025-11-04T05:57:25.495Z
 startTime: 2025-11-04T04:45:39.940Z
 generator: Upptime <https://github.com/upptime/upptime>
