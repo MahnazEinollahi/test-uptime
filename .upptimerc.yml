@@ -22,6 +22,7 @@ status-website:
   introTitle: "**Matchbox Exchange** services status."
   # TODO: How to include actual time here?
   introMessage: "Last updated a few minutes ago."
+  theme: dark  
   navbar:
     - title: Status
       href: /
