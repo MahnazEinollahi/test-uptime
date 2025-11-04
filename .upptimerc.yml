@@ -16,7 +16,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: status.matchboxexchange.com
-  baseUrl: /status
+  baseUrl: /test-uptime
   logoUrl: https://matchboxexchange.com/wp-content/uploads/2023/10/header_new.png
   name: Matchbox Exchange Status
   introTitle: "**Matchbox Exchange** services status."
